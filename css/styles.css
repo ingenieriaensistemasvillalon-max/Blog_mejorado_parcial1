@@ -1,9 +1,9 @@
 /* ===== Estilos generales ===== */
 body { /* Estilo del cuerpo entero */
-  font-family: Arial, sans-serif; /* Fuente principal */
-  margin: 0; /* Quitar margen por defecto */
-  padding: 0; /* Quitar padding por defecto */
-  background: #f4f4f9; /* Color de fondo claro */
+  font-family: "Georgia", serif;; /* Fuente principal */
+  margin: 4; /* Poner margen por defecto */
+  padding: 3; /* Padding por defecto */
+  background: #e55137; /* Color de fondo claro */
 }
 
 /* ===== Header ===== */
@@ -147,3 +147,4 @@ main { /* Caja principal centrada */
 
 /* Estilos para mensajes de error */
 .error { color: darkred; margin-top: 6px; font-size: 0.95rem; }
+
